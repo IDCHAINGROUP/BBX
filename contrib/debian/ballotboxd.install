@@ -1,0 +1,3 @@
+usr/local/bin/ballotboxd usr/bin
+usr/local/bin/ballotbox-cli usr/bin
+debian/examples/ballotbox.conf etc/ballotbox

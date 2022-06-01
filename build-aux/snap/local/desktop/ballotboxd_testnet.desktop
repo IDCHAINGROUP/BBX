@@ -1,0 +1,16 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=BBX_Coin Daemon SNAP
+Comment=testnet
+GenericName=BBX_Coin Digital Currency Daemon Client testnet network
+Exec=ballotbox_coin-core.daemon-testnet %u
+Terminal=true
+Type=Application
+Icon=${SNAP}/share/pixmaps/ballotbox_coin_testnet.png
+MimeType=x-scheme-handler/ballotbox;
+Categories=X-Office;X-Finance;
+Keywords=internet;ballotbox_coin;zballotbox;core;wallet;daemon;testnet;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
+Name[en_IN]=ballotboxd_testnet.desktop

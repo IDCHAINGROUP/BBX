@@ -1,0 +1,14 @@
+QT_TS = \
+  qt/locale/ballotbox_de.ts \
+  qt/locale/ballotbox_en.ts \
+  qt/locale/ballotbox_en_US.ts \
+  qt/locale/ballotbox_es.ts \
+  qt/locale/ballotbox_fr_FR.ts \
+  qt/locale/ballotbox_hr_HR.ts \
+  qt/locale/ballotbox_it.ts \
+  qt/locale/ballotbox_ko_KR.ts \
+  qt/locale/ballotbox_nl.ts \
+  qt/locale/ballotbox_pl.ts \
+  qt/locale/ballotbox_ru.ts \
+  qt/locale/ballotbox_tr.ts \
+  qt/locale/ballotbox_zh_CN.ts
